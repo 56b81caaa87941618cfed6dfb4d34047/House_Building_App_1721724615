@@ -37,25 +37,6 @@
         "isResizable": true,
         "name": ""
     },
-    "simple_header_component_1721724617.js": {
-        "component_name": "simple_header_component",
-        "id": "simple_header_component_1721724617",
-        "type": "containerComponent",
-        "metadata": {},
-        "w": 5,
-        "h": 8,
-        "x": 0,
-        "y": 0,
-        "i": "0",
-        "minW": 3,
-        "maxW": 12,
-        "minH": 1,
-        "moved": false,
-        "static": false,
-        "isDraggable": true,
-        "isResizable": true,
-        "name": ""
-    },
     "simple_footer_component_1721724617.js": {
         "component_name": "simple_footer_component",
         "id": "simple_footer_component_1721724617",
