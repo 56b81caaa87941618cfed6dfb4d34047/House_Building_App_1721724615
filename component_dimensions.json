@@ -1,23 +1,4 @@
 {
-    "simple_cta_component_1721724617.js": {
-        "component_name": "simple_cta_component",
-        "id": "simple_cta_component_1721724617",
-        "type": "containerComponent",
-        "metadata": {},
-        "w": 12,
-        "h": 8,
-        "x": 0,
-        "y": 7,
-        "i": "2",
-        "minW": 3,
-        "maxW": 12,
-        "minH": 1,
-        "moved": false,
-        "static": false,
-        "isDraggable": true,
-        "isResizable": true,
-        "name": ""
-    },
     "simple_hero_component_1721724617.js": {
         "component_name": "simple_hero_component",
         "id": "simple_hero_component_1721724617",
