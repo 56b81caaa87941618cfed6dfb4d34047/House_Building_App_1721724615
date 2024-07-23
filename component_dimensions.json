@@ -36,23 +36,5 @@
         "isDraggable": true,
         "isResizable": true,
         "name": ""
-    },
-    "simple_hero_component_1721725015.js": {
-        "id": "simple_hero_component_1721725015",
-        "name": "simple_hero_component",
-        "type": "containerComponent",
-        "metadata": {},
-        "w": 12,
-        "h": 12,
-        "x": 0,
-        "y": 14,
-        "i": "2",
-        "minW": 3,
-        "maxW": 12,
-        "minH": 1,
-        "moved": false,
-        "static": false,
-        "isDraggable": true,
-        "isResizable": true
     }
 }
